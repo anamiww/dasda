@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    margin:auto;
+    height: 100%;
+    color: #fff;
+  background: url(images/4a52400948-2_1390x600.jpg) no-repeat center; 
+   
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-list{
+    display: flex;
+    list-style-type: none;
+}
+.menu-item:not(:last-child){
+    margin-right:63pxactive;
+    
+
+}
+.logo{
+    width:120px;
+    height:120px;
+    display: flex;
+    display: flex;
+}
